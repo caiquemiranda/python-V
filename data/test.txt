@@ -1,0 +1,1 @@
+Data after write operation Appending new data to the file
